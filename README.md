@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lokithe5th
 - 👀 I’m interested in health systems and technology.
-- 🌱 I’m currently learning solidity, computer science.
-- 💞️ I’m looking to collaborate decentralising health systems.
+- 🎓 I love learning and hold a Bachelors of Science in Physiotherapy, a Postgraduate Diploma in Business Administration and a Masters in Business Administration.
+- 🌱 I’m currently learning Solidity and computer science.
+- 💞️ I want to create open source health systems using blockchain technology.
 - 📫 lourens.eth
 
 <!---
