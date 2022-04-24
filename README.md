@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lourenslinde || lourens.eth || LokiThe5th
-- 👀 I’m interested in health systems, business and blockchain technology.
+- 👀 I’m making a career change from health services and business to smart contract development.
 - 🎓 I love learning and hold a Bachelors of Science in Physiotherapy, a Postgraduate Diploma in Business Administration and a Masters in Business Administration.
-- 🌱 I’m currently learning Solidity and computer science.
+- 🌱 I’m currently improving my skills in smart contract development and computer science.
 - 💞️ I want to create open source health systems using blockchain technology.
 - 📫 lourens.eth
 
