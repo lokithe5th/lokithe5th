@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lourenslinde || lourens.eth || LokiThe5th
-- 👀 I’m making a career change from health care and business management to smart contract development and web3.
+- 👀 I have a broad base of practical experience and I'm currently working in smart contract development and web3.
 - 🎓 I love learning and hold a Masters in Business Administration, with a Bachelors of Science in Physiotherapy.
-- 🌱 I’m currently improving my skills in smart contract development and computer science.
-- 💞️ My personal project is to create open source health systems using blockchain technology.
+- 🌱 I’m currently improving my skills in offensive security for smart contracts and computer science.
+- 💞️ I love bringing together smart contracts and economics to solve coordination games.
 - 📫 lourens.eth
 
 <!---
