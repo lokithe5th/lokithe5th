@@ -37,7 +37,16 @@ In addition to the above:
 - Daily coordination with the front-end team to translate smart contract technical specification into front-end functionality
 - Responsible for coordination between the front- and back-end teams to overcome technical challenges
 - Identifying challenges and providing potential solutions and feedback to the CEOs and Technical Lead
-- Communicating directly with the client organization and addressing any concerns they may have
+- Communicating directly with the client organization and addressing any concerns they may have  
+
+**BuidlGuidl Contributor**
+*March 2022 - Present*  
+  
+- Bit packing fundamentals and gas-comparisons
+- Tax-harvesting NFTs
+- SVG NFT with ERC20 token emissions
+- Minimum Viable Dex and expoloration of Constant Product Market Makers
+- EthDenver projects for event-sponsor admin dashboard
 
 <!---
 lokithe5th/lokithe5th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
