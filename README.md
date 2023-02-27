@@ -46,7 +46,7 @@ In addition to the above:
 - Bit packing fundamentals and gas-comparisons
 - Tax-harvesting NFTs
 - SVG NFT with ERC20 token emissions
-- Minimum Viable Dex and expoloration of Constant Product Market Makers
+- Minimum Viable Dex and exploration of Constant Product Market Makers
 - EthDenver projects for event-sponsor admin dashboard
 
 <!---
