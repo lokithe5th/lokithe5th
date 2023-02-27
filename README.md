@@ -39,7 +39,7 @@ In addition to the above:
 - Identifying challenges and providing potential solutions and feedback to the CEOs and Technical Lead
 - Communicating directly with the client organization and addressing any concerns they may have  
 
-**BuidlGuidl Contributor**
+**BuidlGuidl Contributor**  
 *March 2022 - Present*  
   
 - Bit packing fundamentals and gas-comparisons
