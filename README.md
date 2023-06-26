@@ -4,13 +4,13 @@
 - I have fun bringing together smart contracts and economics to solve coordination games.
 
 ## Experience 
-My experience crosses multiple domains: from being a registered health professional to being a Solidity Developer with mainnet contracts in production.   
+My experience crosses multiple domains: from being a registered health professional, to founding an Agritech startup, to being a Solidity Developer with mainnet contracts in production.   
 
 Aside from smart contract auditing my interest is focused on how I could integrate smart contracts and business system design in the best way.
 
 I help businesses integrate blockchain into their operations and business models.
 
-### Projects    
+## Projects    
 **Freelance Solidity Developer**  
 *January 2023 - present*  
 
