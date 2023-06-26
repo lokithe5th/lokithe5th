@@ -1,18 +1,21 @@
-## 👋 Hi, I’m Lourens Linde  
+## lourens  
+- I'm a multifaceted Solidity Developer and Blockchain Consultant
+- I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science.
+- I have fun bringing together smart contracts and economics to solve coordination games.
 
-- 👀 I have a broad base of practical experience and I'm currently working in smart contract development and web3.
-- 🎓 I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science.
-- 💞️ I have fun bringing together smart contracts and economics to solve coordination games.
-- 📫 lourens.eth
+## Experience 
+My experience crosses multiple domains: from being a registered health professional to being a Solidity Developer with mainnet contracts in production.   
 
-## Experience 👨🏻‍🎓
-The bulk of my experience is as a Solidity Developer for [Daoism Systems](https://daoism.systems/), building out a custom DAO ecosystem as part of a small team. At the end of September 2022 I was asked to become Project Owner for this project, under the guidance of the company Technical Lead.  
+Aside from smart contract auditing my interest is focused on how I could integrate smart contracts and business system design in the best way.
 
-Prior to this I was part of BuidlGuidl and developed smart contracts with the goal of becoming a Solidity Developer in the web3 space; making a transition from being a health professional and business manager towards a developer after obtaining my Masters in Business Administration in 2020.  
+I help businesses integrate blockchain into their operations and business models.
 
-My interest has been focused on coordination systems, and how I could integrate smart contracts and business system design in the best way.
+### Projects    
+**Freelance Solidity Developer**  
+*January 2023 - present*  
 
-### Key Responsibilities 🔑
+Development, testing and deployment of an ERC20 token to be used as Marketable Tax Credits within a local government tax jurisdiction.
+
 **Solidity Developer**  
 *June 2022 - December 2022*  
 
