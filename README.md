@@ -2,13 +2,12 @@
 - I'm a multifaceted Solidity Developer and Blockchain Consultant
 - I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science.
 - I have fun bringing together smart contracts and economics to solve coordination games.
+- I enjoy the combination of finance and programming that smart contracts require.
 
 ## Experience 
 My experience crosses multiple domains: from being a registered health professional, to founding an Agritech startup, to being a Solidity Developer with mainnet contracts in production.   
 
-Aside from smart contract auditing my interest is focused on how I could integrate smart contracts and business system design in the best way.
-
-I help businesses integrate blockchain into their operations and business models.
+Aside from solidity development and smart contract auditing my interest is focused on how I could integrate smart contracts and business system design in the best way.
 
 ## Projects    
 **Freelance Solidity Developer**  
