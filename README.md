@@ -1,7 +1,6 @@
 ## lourens  
-- I'm a multifaceted Solidity Developer and Blockchain Consultant
+- I'm a multifaceted Solidity Developer with special interests in DeFi and Smart Contract Security.
 - I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science.
-- I have fun bringing together smart contracts and economics to solve coordination games.
 - I enjoy the combination of finance and programming that smart contracts require.
 
 ## Experience 
