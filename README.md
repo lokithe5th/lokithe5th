@@ -1,6 +1,6 @@
-## lourens  
+## Lourens  
 - I'm a multifaceted Solidity Developer with special interests in DeFi and Smart Contract Security.
-- I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science.
+- I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science (Health Sciences).
 - I enjoy the combination of finance and programming that smart contracts require.
 
 ## Experience 
@@ -39,7 +39,11 @@ In addition to the above:
 - Daily coordination with the front-end team to translate smart contract technical specification into front-end functionality
 - Responsible for coordination between the front- and back-end teams to overcome technical challenges
 - Identifying challenges and providing potential solutions and feedback to the CEOs and Technical Lead
-- Communicating directly with the client organization and addressing any concerns they may have  
+- Communicating directly with the client organization and addressing any concerns they may have
+
+Read about this DAO project at the link below:
+
+[![Article about DAO project](https://mirror-media.imgix.net/publication-images/xEbUO9KLAH4neuco6p5LT.jpeg?height=512&width=1024&h=512&w=1024&auto=compress)](https://mirror.xyz/0013700.eth/zWJyiODvgveaw32h0jRRQuebeSVoJ-gEoj42essfQUk)
 
 **BuidlGuidl Contributor**  
 *March 2022 - Present*  
@@ -49,6 +53,10 @@ In addition to the above:
 - SVG NFT with ERC20 token emissions
 - Minimum Viable Dex and exploration of Constant Product Market Makers
 - EthDenver projects for event-sponsor admin dashboard
+
+See my article about bit packing for the guild here: 
+
+[![Flipping Bits](https://storage.googleapis.com/download/storage/v1/b/buidlguidl-v3.appspot.com/o/builds%2Fab32b86505dc3b4890356d600.jpeg?generation=1673862785523426&alt=media)](https://app.buidlguidl.com/build/rKQQX7HvCcoVpWCU3qMW)
 
 <!---
 lokithe5th/lokithe5th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
