@@ -6,9 +6,23 @@
 ## Experience 
 My experience crosses multiple domains: from being a registered health professional, to founding an Agritech startup, to being a Solidity Developer with mainnet contracts in production.   
 
-Aside from solidity development and smart contract auditing my interest is focused on how I could integrate smart contracts and business system design in the best way.
+I'm currently focused on Smart Contract Security.
 
-## Projects    
+## Projects  
+**Independent Security Researcher**
+*May 2023 - present*
+Code4rena Warden, highest rank was #45 on 90-day leaderboard.
+- 5th place Dopex Contest
+- 7th place Panoptic Contest
+- 8th place GoodEntry 
+
+Multiple "Selected For Report" submissions:
+- [Put settlement can be anticipated and lead to user losses and bonding DoS](https://github.com/code-423n4/2023-08-dopex-findings/issues/1584)  
+- [Incorrect precision assumed from RdpxPriceOracle creates multiple issues related to value inflation/deflation](https://github.com/code-423n4/2023-08-dopex-findings/issues/549) 
+- [The vault allows "free" swaps from WETH to RDPX](https://github.com/code-423n4/2023-08-dopex-findings/issues/2130)   
+
+Contributor to the WardenOSS Club.
+  
 **Freelance Solidity Developer**  
 *January 2023 - present*  
 
