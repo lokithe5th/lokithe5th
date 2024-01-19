@@ -3,12 +3,7 @@
 - I love learning and hold a Masters in Business Administration, with an undergad Bachelors of Science (Health Sciences).
 - I enjoy the combination of finance and programming that smart contracts require.
 
-## Experience 
-My experience crosses multiple domains: from being a registered health professional, to founding an Agritech startup, to being a Solidity Developer with mainnet contracts in production.   
-
-I'm currently focused on Smart Contract Security.
-
-## Projects  
+## Experience  
 **Independent Security Researcher**
 *May 2023 - present*
 Code4rena Warden, highest rank was #45 on 90-day leaderboard.
