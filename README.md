@@ -4,8 +4,10 @@
 - I enjoy the combination of finance and programming that smart contracts require.
 
 ## Experience  
-**Independent Security Researcher**
-*May 2023 - present*
+**Independent Security Researcher**  
+
+*May 2023 - present*  
+
 Code4rena Warden, highest rank was #45 on 90-day leaderboard.
 - 5th place Dopex Contest
 - 7th place Panoptic Contest
